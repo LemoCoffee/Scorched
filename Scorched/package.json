@@ -1,0 +1,13 @@
+{
+  "name": "scorched",
+  "version": "0.0.0",
+  "description": "Scorched",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "devDependencies": {
+    "eslint": "^8.57.1"
+  },
+  "eslintConfig": {}
+}
